@@ -1,0 +1,17 @@
+{
+  "name": "cyconfig",
+  "version": "1.0.0",
+  "description": "Setup a ready to run cypress file structure.",
+  "main": "index.js",
+  "bin": {
+    "cyconf": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "David T. Hess",
+  "license": "MIT"
+}
